@@ -94,9 +94,14 @@ footer {
     border: 1px solid rgba(0, 0, 0, 1);
     background-color: #eee;
     color: #333;
+    margin-top: 0.4rem;
 }
 
-.box ul {
+ul {
+    list-style: none;
+}
+
+ul a {
     text-decoration: none;
 }
 
